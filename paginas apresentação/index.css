@@ -1,0 +1,44 @@
+<style>
+body {
+	font-family: "Crimson Text", "Times New Roman", serif;
+	background-color: #F2FFFC;
+	font-size: 100%;
+}
+
+h1, h2, h3 {
+	font-family: "Open Sans Condensed", "Arial", sans-serif;
+    text-align: center;
+}
+
+
+main h1 {
+	text-align: center;
+	background-color: #851944;
+	color: #FFF;
+}
+
+p {
+	text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+#email{
+    border: 50px;
+    font-family: "Open Sans Condensed", "Arial", sans-serif;
+    text-align: justify;    
+}
+
+main a {
+	color: #851944;
+}
+
+aside a {
+    border-left: 250px;
+    text-align: center
+	color: #851944;
+	font-family: "Open Sans Condensed", sans-serif;
+}
+</style>
