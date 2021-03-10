@@ -1,4 +1,4 @@
-<style>
+
 body {
 	font-family: "Crimson Text", "Times New Roman", serif;
 	background-color: #F2FFFC;
@@ -21,9 +21,6 @@ p {
 	text-align: center;
 }
 
-.center {
-  text-align: center;
-}
 
 #email{
     border: 50px;
@@ -35,10 +32,12 @@ main a {
 	color: #851944;
 }
 
-aside a {
-    border-left: 250px;
-    text-align: center
-	color: #851944;
-	font-family: "Open Sans Condensed", sans-serif;
+footer{
+    display: table;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
-</style>
+
+
+
